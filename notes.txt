@@ -1,0 +1,8 @@
+shallow copy :(same reference point)
+-> is a copy whose properties share the same references as those of the source object from which the copy was made.
+-> when we change either the copy, it changes the src (obj) too.
+
+deep copy:(different reference point)
+-> is a copy whose properties do not share the same references as those of the source object from which the copy was made.
+-> when we change either the copy, it doesn't change the src (obj) too.
+ 
